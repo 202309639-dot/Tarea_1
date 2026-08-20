@@ -24,6 +24,5 @@ for i = 0:1:dy
     xlim([-1 5])
     ylim([-1 8])
     
-    grid on
     pause(0.1)
 end
